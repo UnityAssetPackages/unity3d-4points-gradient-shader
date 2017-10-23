@@ -1,4 +1,4 @@
-﻿Shader "FakeLove/4-points-gradient-mat" {
+﻿Shader "Custom/4-points-gradient-mat" {
 	Properties {
 		[Header(4 points gradient)]
 		col_left_top("col_left_top", Color) = (1,1,1,1)
